@@ -2,3 +2,4 @@ meu nome é: Carlos Eduardo batista dos Santos
 idade: 39
 sexto: masculino
 profissão: futuro progamador
+cor preferida: black
